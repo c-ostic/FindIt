@@ -32,6 +32,7 @@ public class PauseMenuController : MonoBehaviour
         Time.timeScale = 0;
         panel.SetActive(true);
         Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
     }
 
     public void UnPauseGame()
@@ -41,6 +42,7 @@ public class PauseMenuController : MonoBehaviour
         Time.timeScale = 1;
         panel.SetActive(false);
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     public void QuitGame()
