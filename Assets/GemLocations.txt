@@ -13,3 +13,19 @@ Hint: They say Purple Gems ward away evil sprits. Perfect to keep around a curse
 Yellow Gem
 Location: On the beam above the door to the Tavern in the Hallway
 Hint: Looking for the Yellow Gem? Sometimes taking a rest on a park bench is the best way to take in your surroundings...
+
+Green Gem
+Location: Under the wood pile in the Hallway
+Hint: It's going to be a cold one tonight. Hopefully the firewood isn't too Green to start a good fire...
+
+Blue Gem
+Location: In the cup on the desk in the Bedroom
+Hint: I hear the alchemist uses Blue Gems as ice cubes in his late night drinks... wierdo...
+
+Cyan Gem
+Location: In the chest near the stack of books in the Bedroom
+Hint: The alchemist was never the most organized person. You can find the Cyan Gem in the mess with the rest of his personal belongings...
+
+Orange Gem
+Location: Inside the torch beside the staircase
+Hint: The Orange Gem was lost the day the apprentice tripped down the stairs. Maybe you are bright enough to find it...
